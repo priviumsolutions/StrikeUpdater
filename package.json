@@ -28,7 +28,10 @@
     "electron": "13.1.2"
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "colorfy": "^2.2.0",
+    "electron-squirrel-startup": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
   },
   "config": {
     "forge": {
