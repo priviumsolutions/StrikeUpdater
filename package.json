@@ -9,6 +9,9 @@
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
+  "win":{
+    "icon": "./strike.ico"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WhistleDevelopments/StrikeUpdater.git"
